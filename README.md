@@ -1,4 +1,4 @@
-# Hosted link https://ayush19bansal.github.io/weekly_test5/
+# Hosted link [https://ayush19bansal.github.io/weekly_test5/](https://ayush19bansal.github.io/Amazon_clone/)
 ![image](https://github.com/Ayush19bansal/weekly_test5/assets/118842033/ded8b6c2-4567-4662-b752-aaccd3f2d5a2)
 
 # HTML
